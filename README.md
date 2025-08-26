@@ -1,5 +1,3 @@
-[![github.com/sayamalt/bank...](https://images.openai.com/thumbnails/url/EMwtMHicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5yz6r0iTQMCzNPdylPdoxPLUivCDE0d8pzi7QwCcn0MzV0MnRMCQuqcjXz8swsCy8LTSswyvFKrshXKwYAs2Mo1g)](https://github.com/SayamAlt/Bank-Customer-Segmentation)
-
 The GitHub repository **[Bank\_Customer\_Segmentation](https://github.com/manikrishna-m/Bank_Customer_Segmentation)** by [manikrishna-m](https://github.com/manikrishna-m) offers an end-to-end implementation of a machine learning project focused on segmenting bank customers. This project utilizes clustering techniques to categorize customers based on their behavior and demographics, enabling personalized marketing strategies and improved customer service.([GitHub][1])
 
 ---
